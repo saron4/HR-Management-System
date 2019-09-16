@@ -1,1 +1,3 @@
-# HR-Management-System
+HR Management System is a simple java project that is used to manage employee records. the project use XAMPP server to run.
+
+In this project, the user will find the login module appearing on the home page. The user must enter the username and password to get access to the system. Once you are into the system you see the available options for this system.you can even generate the report of the employee. Also, you can audit the employee salary. You can even generate the slip of the payment made to the employee. This project allows you to insert profile images during adding or registering the employee.
